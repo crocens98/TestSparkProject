@@ -1,7 +1,5 @@
 package by.zinkov
 
-import org.junit.Assert._
-import org.junit.Test
 import org.scalatest.FunSuite
 
 import scala.collection.mutable.Stack
